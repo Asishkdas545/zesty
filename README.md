@@ -42,17 +42,6 @@ Optimized API calls and lazy loading for better performance.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots from your project directory here (e.g. from `/public/screenshots`):
-
-![Homepage Screenshot](https://github.com/Asishkdas545/Zesty-Food-Delivery/blob/main/public/screenshots/home.png)
-![Cart Screenshot](https://github.com/Asishkdas545/Zesty-Food-Delivery/blob/main/public/screenshots/cart.png)
-
-*(Make sure to replace links with your actual GitHub image paths.)*
-
----
-
 ## ⚙️ Installation and Setup
 
 ```bash
